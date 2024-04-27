@@ -16,13 +16,18 @@
 ## Description
 
 
-- Welcome to iTunes Clone app created using SwiftUI and Combine. It contains Networking Layer to fetch data from the Apple API to fetch songs, albums and movies. Exploring the power of Combine framework into managing data streams within ViewModels, for real-time updates and UI synchronization. Getting hands-on experience while building the UI with SwiftUI using composable UI elements, to create layouts and interactions that engage users. I've implemented infinite scrolling with pagination, mastering the management of large datasets while ensuring a smooth browsing experience for users. Building comprehensive state handling mechanisms to provide clear feedback during the data fetching process. Implementing error handling to gracefully manage unexpected errors and edge cases to strengthen the app's stability under various scenarios. The user is also able to navigate to iTunes using Safari to purchase a specific song, album or movie that he wants from the app. I extend the invitation to all iOS developers to check the code and I am open for suggestions and improvements.
+Welcome to the iTunes Clone app created using SwiftUI and Combine. It contains a Networking Layer to fetch data from the Apple API to fetch songs, albums, and movies. 
+Exploring the power of the Combine framework to manage data streams within ViewModels, for real-time updates and UI synchronization.
+Getting hands-on experience while building the UI with SwiftUI using composable UI elements, to create layouts and interactions that engage users.
+I've implemented infinite scrolling with pagination, mastering the management of large datasets while ensuring a smooth browsing experience for users. 
+Building comprehensive state handling mechanisms to provide clear feedback during the data fetching process. Implementing error handling to gracefully manage unexpected errors and edge cases to strengthen the app's stability under various scenarios. 
+The user is also able to navigate to iTunes using Safari to purchase a specific song, album, or movie that he wants from the app. I extend the invitation to all iOS developers to check the code and I am open for suggestions and improvements.
 
 
 ## Features
 
 
-### 1. Implement Networking Layer to fetch data from API:
+### 1. Implement a Networking Layer to fetch data from API:
 
 - Efficiently fetch data from the Apple API using a robust Networking Layer, ensuring seamless communication between the iTunes app and the API, guaranteeing reliability and speed in data retrieval.
 
@@ -42,7 +47,7 @@
 - Enhance user experience by seamlessly loading additional content through infinite scrolling with pagination, ensuring a fluid browsing experience while efficiently managing large datasets without overwhelming the user.
 
 
-### 5. Implement state handling for loading, error, finished loading:
+### 5. Implement state handling for loading, error, and finished loading:
 
 - Implementing comprehensive state handling mechanisms for loading, error, and completion states, to provide a clear feedback to users throughout the data fetching process.
 
