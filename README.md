@@ -2,15 +2,43 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [iTunes Clone](https://www.linkedin.com/feed/update/urn:li:activity:7203093021125447682/)
+
+
+## Screenshots
+
+Search Placeholder         |  Search Term All Section
+:-------------------------:|:-------------------------:
+<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
+
+Search Term Album Section  |  Search Term Song Section
+:-------------------------:|:-------------------------:
+<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
+
+Search Term Movie Section  | Song Tab Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
+
+Song Detail Screen         | Albums Tab Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
+
+ Album Detail Screen       | Movies Tab Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
+
+ Song Safari Screen        | Album Safari Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S10.png" width="300"> | <img src="./img/S11.png" width="300">
+
 
 
 ## Description
@@ -60,34 +88,6 @@ The user is also able to navigate to iTunes using Safari to purchase a specific 
 ### 7. Navigate to iTunes using Safari to purchase songs, albums or movies:
 
 - The user is also able to navigate to iTunes using Safari to purchase a specific song, album or movie that he wants from the app.
-
-
-## Screenshots
-
-Search Placeholder         |  Search Term All Section
-:-------------------------:|:-------------------------:
-<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
-
-Search Term Album Section  |  Search Term Song Section
-:-------------------------:|:-------------------------:
-<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
-
-Search Term Movie Section  | Song Tab Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
-
-Song Detail Screen         | Albums Tab Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
-
- Album Detail Screen       | Movies Tab Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
-
- Song Safari Screen        | Album Safari Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S10.png" width="300"> | <img src="./img/S11.png" width="300">
-
 
 
 
